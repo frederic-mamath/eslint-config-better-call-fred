@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-better-call-fred",
+  "version": "0.1.1",
+  "description": "To be updated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frederic MAMATH",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-plugin-react": ">= 7",
+    "eslint-plugin-react-hooks": ">= 4",
+    "eslint-plugin-unused-imports": ">= 2",
+    "eslint-plugin-import": ">= 2",
+    "@typescript-eslint/eslint-plugin": ">= 5"
+  }
+}
